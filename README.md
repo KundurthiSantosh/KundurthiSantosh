@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KundurthiSantosh
+- 👀 I’m interested in programming languages like java, python, and javascript
+- 🌱 I’m currently learning java based frameworks
+- 💞️ I’m looking to collaborate on java based open source projects
+- 📫 How to reach me santoshsriram2@gmail.com
